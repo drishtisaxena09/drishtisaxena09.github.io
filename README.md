@@ -13,10 +13,10 @@ A colorful, animated, multi-page portfolio site for a Data Analyst.
 ## Customize
 1. Replace "DRISHTI SAXENA", links, and contact details in each page.
 2. Swap images: update the `src` attributes or add your own images to `assets/img/`.
-3. Replace `assets/DRISHTI SAXENA_CV.pdf` with your actual CV.
+3. Replace `assets/"C:\Users\Drishti\OneDrive\Documents\Drishti Saxena.pdf"` with your actual CV.
 4. For the contact form, create a free Formspree endpoint and replace `<form action="https://formspree.io/f/yourFormID" method="POST">
   <label for="name">Drishti Saxena:</label>
-  <input type="text" name="name" required>
+  <input type="text" name="Drishti Saxena" required>
 
   <label for="email">drishtigoel2109@gmail.com:</label>
   <input type="email" name="email" required>
