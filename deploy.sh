@@ -3,7 +3,7 @@
 if [ ! -d .git ]; then
   git init
   git branch -M main
-  git remote add origin https://github.com/drishtisaxena09/Blinkit_SalesAnalysis
+  git remote add originhttps://github.com/drishtisaxena09/Blinkit_SalesAnalysis
 fi
 git add .
 git commit -m "Deploy: update site"
